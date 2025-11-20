@@ -1,0 +1,7 @@
+{
+  "name": "TurkFest Explorer",
+  "description": "Discover festivals, events, and cultural centers across all 81 provinces of Turkey using AI and Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
